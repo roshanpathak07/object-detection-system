@@ -17,7 +17,7 @@ This project demonstrates **real-time object detection** using the YOLOv4 deep l
 yolov4-object-detection/
 │── yolov4.py # Main detection script
 │── yolov4.cfg # YOLOv4 configuration file
-│── yolov4.weights # Pre-trained YOLOv4 weights (download link below)
+│── yolov4.weights # Pre-trained YOLOv4 weights
 │── coco.names # COCO class labels
 │── requirements.txt # Python dependencies
 
